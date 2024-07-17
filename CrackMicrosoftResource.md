@@ -29,16 +29,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |
+| [2 Sum](https://leetcode.com/problems/two-sum/)  |Done  |  |
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |Done  |  |
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
 | [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
 | [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
-| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
+| [Missing Number](https://leetcode.com/problems/missing-number/)  |Done  |  |
 
 
 ---
@@ -67,7 +67,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  | Done  |  |
-| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |   |  |
+| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |Done   |  |
 | [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  | Done |  |
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
