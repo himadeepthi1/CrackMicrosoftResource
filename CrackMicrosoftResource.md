@@ -66,16 +66,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
-| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
-| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  | Done  |  |
+| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |   |  |
+| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  | Done |  |
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
+| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |Done  |  |
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
 | [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
@@ -99,9 +99,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |  |
 | [Unique Paths]( https://leetcode.com/problems/unique-paths/) |  |  |
-| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
-| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Done |  |
+| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  | Done |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Done |  |
 | [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  |  |
 | [Longest Increasing Subsequence]( https://leetcode.com/problems/longest-increasing-subsequence/) |  |  |
 
@@ -122,7 +122,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)  |  |  |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/) |  |  |
-| [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |  |
+| [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Done  |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
 | [Subsets](https://leetcode.com/problems/subsets-ii/) |  |  |
 | [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/) |  |  |
